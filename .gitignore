@@ -1,0 +1,47 @@
+# Node.js dependencies
+node_modules/
+npm-debug.log*
+
+# Playwright Test results and reports
+test-results/
+playwright-report/
+*.png
+*.mp4
+downloadedImages/
+
+# Logs
+logs/
+*.log
+*.log.*
+
+# Environment variables
+.env
+.env.local
+.env.*.local
+
+# Build output
+dist/
+out/
+build/
+
+# IDE files
+.vscode/
+.idea/
+*.iml
+
+# MacOS system files
+.DS_Store
+
+# TypeScript cache
+*.tsbuildinfo
+
+# Data files
+# data/datos-pruebas.xlsx
+
+# Temporary files
+*.tmp
+*.temp
+*.swp
+
+# System files
+Thumbs.db
